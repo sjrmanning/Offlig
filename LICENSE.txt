@@ -5,8 +5,9 @@ SIL Open Font License v1.1
 This Font Software is licensed under the SIL Open Font License, Version 1.1
 This license is also available with a FAQ at: http://scripts.sil.org/OFL
 
-Reserved font name: "Office Code Pro"
+Reserved font name: "Offlig"
 
+Copyright © 2020 Simon Manning ( www.simonmanning.net )
 Copyright © 2015 Nathan Rutzky ( www.nath.co )
 Copyright © 2015 Adobe Systems ( www.adobe.com )  
 
