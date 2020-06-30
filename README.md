@@ -1,12 +1,12 @@
 # Offlig — Office Code Pro with Ligatures
 
-**Offlig** is a very slightly modified version of @nathco’s **Office Code Pro**, itself a fork of the monospaced sans serif **Source Code Pro** originally created by Paul D. Hunt for Adobe Systems Incorporated. Please see the [Office Code Pro](https://github.com/nathco/Office-Code-Pro) repository for more information.
+**Offlig** is a very slightly modified version of [@nathco](https://github.com/nathco)’s **Office Code Pro**, itself a fork of the monospaced sans serif **Source Code Pro** originally created by Paul D. Hunt for Adobe Systems Incorporated. Please see the [Office Code Pro](https://github.com/nathco/Office-Code-Pro) repository for more information.
 
-Offlig uses @phooky’s [fork of Office Code Pro](https://github.com/phooky/Office-Code-Pro) which fixes some width issues with Office Code Pro, but also includes a dotted zero variant.
+Offlig uses [@phooky](https://github.com/phooky)’s [fork of Office Code Pro](https://github.com/phooky/Office-Code-Pro) which fixes some width issues with Office Code Pro, but also includes a dotted zero variant.
 
 ## Preview
 
-Code examples taken from [Fira Code’s](https://github.com/tonsky/FiraCode) set of examples.
+Code examples taken from [Fira Code](https://github.com/tonsky/FiraCode)’s set of examples.
 
 <img src="https://raw.githubusercontent.com/sjrmanning/Offlig/screenshots/example.png" width="754px" height="1025px" alt="Offlig code examples">
 
